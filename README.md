@@ -1,7 +1,7 @@
 I like Open Source. I mostly use Go and NeoVim.
 
 - Long-time Golang user
-- Mac User  
+- Linux & Mac User  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyoshiha&theme=algolia)
 
