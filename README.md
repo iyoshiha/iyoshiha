@@ -3,6 +3,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -12,5 +15,5 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyoshiha&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyoshiha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyoshiha&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyoshiha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=iyoshiha&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
