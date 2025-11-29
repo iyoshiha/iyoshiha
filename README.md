@@ -10,6 +10,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyoshiha&theme=algolia)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=iyoshiha&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
