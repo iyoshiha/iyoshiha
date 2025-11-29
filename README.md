@@ -12,5 +12,5 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyoshiha&theme=algolia)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyoshiha&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyoshiha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=iyoshiha&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
