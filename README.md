@@ -13,6 +13,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![Google Cloud Spanner](https://img.shields.io/badge/Spanner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/spanner)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iyoshiha&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyoshiha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
